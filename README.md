@@ -107,12 +107,6 @@ The system was implemented using:
 
 ---
 
-## Screenshots
-
-> Replace the image paths below with your actual screenshots inside the repository.
-
----
-
 ## Web Dashboard Screenshots
 
 ### Admin Dashboard
